@@ -11,7 +11,7 @@ e agora posso enxergar novos horizontes graças aos conhecimentos adquiridos</p>
 
 <h2>O que foi aprendido?</h2>
 <h3>DNS</h3>
-<h3>ROTEAMENTO</h3>]
+<h3>ROTEAMENTO</h3>
 <h3>COMUNICAÇÃO ENTRE REDES</h3>
 <h3>DIVERSOS PROTOCOLOS (ARP,ICMP,DHCP,TCP...)</h3>
 
