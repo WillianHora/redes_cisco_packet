@@ -17,7 +17,7 @@ e agora posso enxergar novos horizontes graças aos conhecimentos adquiridos</p>
 
 
 <h2>Agradecimentos</h2>
-<p>Primeiramente agradecer as quatro pessoas que me deram 95% de todo conhecimento que eu adquiri de redes, de uma forma didática que eu nunca aprenderia em lugar nenhum realizando tudo na prática</p>
+<p>Primeiramente agradecer as quatro pessoas que me deram 95% de todo conhecimento que eu adquiri de redes, de uma forma didática que eu nunca aprenderia em lugar nenhum.</p>
 <ul>
 <li>Brendo Nery</li>
   <li>Wallef Igor</li>
