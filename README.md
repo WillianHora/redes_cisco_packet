@@ -26,3 +26,5 @@ e agora posso enxergar novos horizontes graças aos conhecimentos adquiridos</p>
 </ur>
 
 <SPAM>Agradeço também a Alura, pelo ótimo contéudo aplicado e as ferramentas utilziadas</SPAM>
+
+<img src="image.png">
