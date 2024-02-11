@@ -24,4 +24,5 @@ e agora posso enxergar novos horizontes graças aos conhecimentos adquiridos</p>
    <li>Flávio Silva</li>
    <li>Mateus Oliveira</li>
 </ur>
-<p>e Agradecer a alura, pelo ótimo contéudo aplicado e as ferramentas utilziadas</p>
+
+<p>Agradeço também a Alura, pelo ótimo contéudo aplicado e as ferramentas utilziadas</p>
