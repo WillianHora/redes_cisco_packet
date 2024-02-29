@@ -3,7 +3,8 @@
 
 <h3>Consolidação do meu aprendizado</h2>
 <p>Embora eu já esteja trabalhando na área de redes há alguns meses e ter conseguido absorver muita coisa nova, esse curso foi fundamental para que eu pudesse
-carimbar de vez o que eu aprendi, me certificando de que tudo que eu entendi (e até o que eu não entendi direito) estava no caminho certo</p>
+carimbar de vez o que eu aprendi, me certificando de que tudo que eu entendi (e até o que eu não entendi direito).
+  </p>
 <h3>Novo jeito de pensar</h2>
 <p>Aprender coisas novas e enxergar novas possibilidades nos traz tantas ideias na cabeça que é um festival de dopamina,
 e agora posso enxergar novos horizontes graças aos conhecimentos adquiridos</p>
